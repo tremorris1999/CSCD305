@@ -1,3 +1,10 @@
+/**
+ * @file ColorBlob.cpp
+ * @author Trevor Morris (00876703)
+ * @brief Compiled with clang++ using CMake. Should work with any compiler.
+ * 
+ */
+
 #include "ColorBlob.h"
 
 ColorBlob::ColorBlob(): m_width{2}, m_height{2}
